@@ -1,0 +1,17 @@
+torch>=2.0.0
+torchvision
+timm
+numpy
+pandas
+scikit-learn
+opencv-python
+pillow
+albumentations
+tqdm
+matplotlib
+streamlit
+streamlit-webrtc
+onnxruntime
+wandb
+facenet-pytorch
+retinaface
