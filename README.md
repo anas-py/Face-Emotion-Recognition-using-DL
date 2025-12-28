@@ -26,8 +26,7 @@ The model is trained on the **FER2013+ dataset**, which contains **8 facial emot
 
 ## 🎓 Academic Information
 
-- **Student:** Mohd Anas  
-- **Roll No:** 24MAM023  
+- **Name:** Mohd Anas 
 - **Course:** M.Sc. Artificial Intelligence & Machine Learning  
 - **Semester:** III (2025–26)  
 - **Supervisor:** Prof. Jahiruddin  
@@ -148,3 +147,32 @@ The system classifies facial expressions into the following **8 emotions**:
 ### 🔹 Step 1: Install Dependencies
 ```bash
 pip install -r requirements.txt
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Programming Language
+- **Python**
+
+### 🔹 Deep Learning & Machine Learning
+- **PyTorch** – model training and inference  
+- **Torchvision** – pretrained ConvNeXt models and transforms  
+
+### 🔹 Computer Vision
+- **OpenCV** – image & video processing  
+
+### 🔹 Face Detection
+- **MTCNN (facenet-pytorch)** – multi-face detection and alignment  
+
+### 🔹 Web Application
+- **Streamlit** – interactive web-based deployment  
+
+### 🔹 Data Processing & Visualization
+- **NumPy** – numerical computations  
+- **Matplotlib** – plots and graphs  
+- **Seaborn** – confusion matrix visualization  
+
+### 🔹 Dataset
+- **FER2013+** – facial emotion dataset (8 emotion classes)
+
